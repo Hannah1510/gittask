@@ -1,1 +1,4 @@
-console.log("Git is Awesome!");
+let input = prompt("Enter your name:");
+console.log(input);
+
+
